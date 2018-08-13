@@ -1,0 +1,20 @@
+{
+  "name": "fela-display-name-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fela": "^6.1.9",
+    "fela-dom": "^7.0.9",
+    "fela-monolithic": "^5.0.23",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-fela": "^7.3.1"
+  }
+}
